@@ -1,3 +1,5 @@
+# This lab implements authorization-gated endpoints for member-only articles using Flask sessions.
+
 # Lab: Authorizing Requests
 
 ## Scenario
